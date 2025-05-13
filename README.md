@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Hello! I'm a hobbyist programmer and tinkerer, having been largely self-taught since an early age.
+Hello! I go by the alias "90", and I'm a hobbyist programmer and tinkerer, largely self-taught from an early age.
 
 Most of my current work so far has been in Java development, primarily centered around Minecraft mods such as
 [_MEGA Cells_](https://github.com/62832/MEGACells), [_Ars Énergistique_](https://github.com/62832/ArsEnergistique) and
