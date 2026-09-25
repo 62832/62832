@@ -31,7 +31,7 @@ passion projects outside of my current work. In the meantime, thanks for stickin
 </div>
 
 <!-- Images -->
-[gh-stats]: https://github-readme-stats.vercel.app/api?username=62832&theme=midnight-purple&show_icons=true
+[gh-stats]: https://github-readme-stats-fast.vercel.app/api?username=62832&theme=midnight-purple&show_icons=true
 [dls-mega]: https://img.shields.io/curseforge/dt/622112?style=for-the-badge&color=e04e14
 [dls-arseng]: https://img.shields.io/curseforge/dt/905641?style=for-the-badge&color=e04e14
 [dls-appliede]: https://img.shields.io/curseforge/dt/1009940?style=for-the-badge&color=e04e14
